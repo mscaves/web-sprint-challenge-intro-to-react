@@ -5,6 +5,6 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 //Write a function that renders an individual character
-export default function Character(props){
+export function Character(props){
     const { currentCharacter, setCurrentCharacter } = props
 }
